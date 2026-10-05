@@ -4,6 +4,10 @@ gDeadShallNotBlockArrows is a Union plugin for Gothic 1, Gothic Sequel, Gothic 2
 
 If you ever got annoyed by monsters blocking your arrows while performing a dying animation, this plugin is for you. Now giant bugs and crawlers, known for their long death animations, no longer will be a nuisance for your archery.
 
+Here you can watch a demonstration of the plugin (click the image below):
+
+[![Demonstration](http://img.youtube.com/vi/A-YxMemLq8M/0.jpg)](http://www.youtube.com/watch?v=A-YxMemLq8M "gDeadShallNotBlockArrows")
+
 ## Requirements
 
 - [Union Primary Universal](https://drive.google.com/file/d/1HujF5KCAKlvqL5Qi8EtiT8GsG5WDpDf2/view)
